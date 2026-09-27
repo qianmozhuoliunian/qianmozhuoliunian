@@ -108,8 +108,8 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-qianmozhuoliunian-181717?style=for-the-badge&logo=github)](https://github.com/qianmozhuoliunian)
-[![Email](https://img.shields.io/badge/Email-adwsjkluio123456@qq.com-ff9eb5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwsjkluio123456@qq.com)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qianmozhuoliunian&theme=nord_bright)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qianmozhuoliunian&theme=nord_bright)
 
 *💬 欢迎交流 Python / AI Agent / FastAPI，也欢迎一起切磋代码。*
 *Feel free to reach out about Python, AI Agents, or FastAPI — always happy to jam on code.*
