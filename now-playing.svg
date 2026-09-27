@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">正在播放：我的学习曲目</title>
+  <desc id="desc">唱片造型的学习卡片，列出 Tool Calling、Agent 记忆和链表动画</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFF4F7"/>
+      <stop offset="1" stop-color="#F7DFE8"/>
+    </linearGradient>
+    <linearGradient id="vinyl" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#32263E"/>
+      <stop offset="1" stop-color="#6F4D70"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#paper)"/>
+  <rect x="1" y="1" width="1198" height="258" rx="23" fill="none" stroke="#EBC5D3" stroke-width="2"/>
+  <rect x="20" y="20" width="248" height="220" rx="16" fill="#EACAD9" opacity=".45"/>
+  <circle cx="144" cy="130" r="99" fill="url(#vinyl)"/>
+  <circle cx="144" cy="130" r="78" fill="none" stroke="#F3C8D9" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="144" cy="130" r="63" fill="none" stroke="#F3C8D9" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="144" cy="130" r="48" fill="none" stroke="#F3C8D9" stroke-opacity=".22" stroke-width="2"/>
+  <circle cx="144" cy="130" r="31" fill="#F3C5D6"/>
+  <circle cx="144" cy="130" r="7" fill="#4D3655"/>
+  <g fill="#FFF0F4" opacity=".9">
+    <ellipse cx="144" cy="111" rx="5" ry="10"/>
+    <ellipse cx="144" cy="111" rx="5" ry="10" transform="rotate(72 144 130)"/>
+    <ellipse cx="144" cy="111" rx="5" ry="10" transform="rotate(144 144 130)"/>
+    <ellipse cx="144" cy="111" rx="5" ry="10" transform="rotate(216 144 130)"/>
+    <ellipse cx="144" cy="111" rx="5" ry="10" transform="rotate(288 144 130)"/>
+  </g>
+
+  <text x="310" y="54" fill="#8E5E79" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="700" letter-spacing="3">NOW PLAYING  /  LEARNING LOG</text>
+  <text x="310" y="102" fill="#3C2B46" font-family="Noto Sans CJK SC, Microsoft YaHei, Segoe UI, sans-serif" font-size="30" font-weight="700">今天，也在认真练习。</text>
+  <path d="M310 119H1142" stroke="#DAB6C6" stroke-width="2"/>
+
+  <g font-family="Noto Sans CJK SC, Microsoft YaHei, Segoe UI, sans-serif" font-size="19" fill="#49384F">
+    <text x="311" y="155"><tspan fill="#A16784" font-family="Consolas, Menlo, monospace">01  </tspan>Agent 的工具调用</text>
+    <text x="311" y="189"><tspan fill="#A16784" font-family="Consolas, Menlo, monospace">02  </tspan>给 Agent 留一份记忆</text>
+    <text x="311" y="223"><tspan fill="#A16784" font-family="Consolas, Menlo, monospace">03  </tspan>把链表的指针画出来</text>
+  </g>
+  <g fill="#BE8BA4">
+    <rect x="912" y="140" width="4" height="16" rx="2"/>
+    <rect x="923" y="134" width="4" height="22" rx="2"/>
+    <rect x="934" y="144" width="4" height="12" rx="2"/>
+    <rect x="945" y="138" width="4" height="18" rx="2"/>
+    <rect x="956" y="146" width="4" height="10" rx="2"/>
+  </g>
+  <text x="1018" y="155" fill="#9C6D86" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1">IN PROGRESS</text>
+  <text x="1018" y="189" fill="#9C6D86" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1">EXPLORING</text>
+  <text x="1018" y="223" fill="#9C6D86" font-family="Consolas, Menlo, monospace" font-size="12" letter-spacing="1">SKETCHING</text>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" role="img" aria-labelledby="title desc">
+  <title id="title">我的工具箱</title>
+  <desc id="desc">Python、FastAPI、Pydantic、Agent、LangChain、OpenAI、Claude、Docker、PostgreSQL、Redis、Git 和 Linux</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#30263E"/>
+      <stop offset="1" stop-color="#59435F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="264" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="262" rx="23" fill="none" stroke="#B998AE" stroke-opacity=".55" stroke-width="2"/>
+  <text x="40" y="46" fill="#FFE5ED" font-family="Consolas, Menlo, monospace" font-size="14" font-weight="700" letter-spacing="3">INSTRUMENTS  /  我的工具箱</text>
+  <path d="M40 61H1160" stroke="#D9AFC5" stroke-opacity=".34"/>
+
+  <g font-family="Noto Sans CJK SC, Microsoft YaHei, Segoe UI, sans-serif" font-size="16" fill="#E7C7D8">
+    <text x="44" y="109">主奏</text><text x="44" y="170">和声</text><text x="44" y="231">幕后</text>
+  </g>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="16" font-weight="700" text-anchor="middle">
+    <rect x="138" y="79" width="120" height="42" rx="21" fill="#FFDCE8"/><text x="198" y="106" fill="#3B2A45">Python</text>
+    <rect x="272" y="79" width="130" height="42" rx="21" fill="#FFDCE8"/><text x="337" y="106" fill="#3B2A45">FastAPI</text>
+    <rect x="416" y="79" width="130" height="42" rx="21" fill="#FFDCE8"/><text x="481" y="106" fill="#3B2A45">Pydantic</text>
+
+    <rect x="138" y="140" width="126" height="42" rx="21" fill="#E2D4F2"/><text x="201" y="167" fill="#3B2A45">AI Agent</text>
+    <rect x="278" y="140" width="145" height="42" rx="21" fill="#E2D4F2"/><text x="350" y="167" fill="#3B2A45">LangChain</text>
+    <rect x="437" y="140" width="115" height="42" rx="21" fill="#E2D4F2"/><text x="494" y="167" fill="#3B2A45">OpenAI</text>
+    <rect x="566" y="140" width="115" height="42" rx="21" fill="#E2D4F2"/><text x="623" y="167" fill="#3B2A45">Claude</text>
+
+    <rect x="138" y="201" width="112" height="42" rx="21" fill="#F9D6C9"/><text x="194" y="228" fill="#3B2A45">Docker</text>
+    <rect x="264" y="201" width="162" height="42" rx="21" fill="#F9D6C9"/><text x="345" y="228" fill="#3B2A45">PostgreSQL</text>
+    <rect x="440" y="201" width="103" height="42" rx="21" fill="#F9D6C9"/><text x="491" y="228" fill="#3B2A45">Redis</text>
+    <rect x="557" y="201" width="77" height="42" rx="21" fill="#F9D6C9"/><text x="595" y="228" fill="#3B2A45">Git</text>
+    <rect x="648" y="201" width="94" height="42" rx="21" fill="#F9D6C9"/><text x="695" y="228" fill="#3B2A45">Linux</text>
+  </g>
+
+  <g fill="none" stroke="#DDB6CB" stroke-opacity=".55">
+    <path d="M859 98c31-48 72-48 103 0s72 48 103 0 72-48 103 0" stroke-width="3"/>
+    <path d="M859 160c31-48 72-48 103 0s72 48 103 0 72-48 103 0" stroke-width="2"/>
+    <path d="M859 220c31-48 72-48 103 0s72 48 103 0 72-48 103 0" stroke-width="2"/>
+  </g>
+  <g fill="#FFD5E3"><circle cx="901" cy="130" r="4"/><circle cx="1006" cy="130" r="3"/><circle cx="1113" cy="191" r="4"/></g>
+</svg>
