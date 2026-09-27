@@ -109,7 +109,7 @@
 <div align="center">
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qianmozhuoliunian&theme=nord_bright)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qianmozhuoliunian&theme=nord_bright)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qianmozhuoliunian&theme=nord_bright)
 
 *💬 欢迎交流 Python / AI Agent / FastAPI，也欢迎一起切磋代码。*
 *Feel free to reach out about Python, AI Agents, or FastAPI — always happy to jam on code.*
