@@ -1,125 +1,135 @@
-<h1 align="center">
-  <img src="./banner.gif" alt="sakura banner" width="100%" />
-</h1>
+<a name="top"></a>
 
+<div align="center">
 
-<p align="center">
-  🌸 . ⋆ ✿ ʚïɞ ✿ ⋆ . 🌸
-</p>
+<!-- Banner：可替换为樱花 / 钢琴 / 春景图，或保持纯文字 -->
+<img src="docs/images/banner.png" alt="banner" width="800">
 
+<!-- 打字机效果 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=ff9eb5&center=true&vCenter=true&width=600&lines=%E8%B6%81%E9%9D%92%E6%98%A5%EF%BC%8C%E6%8A%8A%E7%83%AD%E7%88%B1%E5%86%99%E8%BF%9B%E4%BB%A3%E7%A0%81%E9%87%8C%20%F0%9F%8C%B8;Young%20%26%20Curious%20%C2%B7%20Code%20%26%20Dream%20%F0%9F%8E%B9)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,redis,git,github,vscode,linux&theme=light" alt="Tech Icons" />
-</p>
+# 🌸 Hi, I'm qianozhuoliunian
 
+> 「趁青春，把热爱写进代码里。」
+>
+> *Young and bold — code with passion.*
 
----
+**Python 开发者 / Python Developer** · 痴迷于 AI Agent 与后端工程 · Exploring AI Agents & Backend
 
-## 🌸 关于我
+[![GitHub followers](https://img.shields.io/github/followers/qianozhuoliunian?style=for-the-badge&color=ff9eb5)](https://github.com/qianozhuoliunian)
+[![GitHub stars](https://img.shields.io/github/stars/qianozhuoliunian?style=for-the-badge&color=ffb7c5)](https://github.com/qianozhuoliunian?tab=repositories)
 
-> 四月的风一吹，代码就自己长出来了。
-
-- 🎹 用 **Python** 弹琴，用 **FastAPI** 编曲，写出来的接口自己会唱歌
-- 🤖 整天和 Agent 待在一起 —— 教它调工具、记事情、自己干活
-- 🎨 资深 vibe coder：不着急，先让感觉对了再说
-- ☁️ 相信最好的代码像即兴演奏 —— 有结构，但不死板的结构
-- 🍃 学习进度很慢，但一直在走。樱花也不是一天开的
-
-<details>
-<summary>🛠 点开看看我的工具箱（懒，先收起来了）</summary>
-<br />
-
-
-**主力**
-
-![Python](https://img.shields.io/badge/Python-FFD1DC?style=flat&logo=python&logoColor=2C3E50)
-![FastAPI](https://img.shields.io/badge/FastAPI-B8E0F5?style=flat&logo=fastapi&logoColor=2C3E50)
-![Pydantic](https://img.shields.io/badge/Pydantic-FFF3B0?style=flat&logo=pydantic&logoColor=2C3E50)
-
-**Agent 相关**
-
-![LangChain](https://img.shields.io/badge/LangChain-D7C4E8?style=flat&logo=langchain&logoColor=2C3E50)
-![OpenAI](https://img.shields.io/badge/OpenAI-C9E4DE?style=flat&logo=openai&logoColor=2C3E50)
-![Claude](https://img.shields.io/badge/Claude-F6C9CF?style=flat&logo=anthropic&logoColor=2C3E50)
-
-**偶尔碰**
-
-![Docker](https://img.shields.io/badge/Docker-BDE0FE?style=flat&logo=docker&logoColor=2C3E50)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FADADD?style=flat&logo=postgresql&logoColor=2C3E50)
-![Redis](https://img.shields.io/badge/Redis-FFE5B4?style=flat&logo=redis&logoColor=2C3E50)
-
-</details>
+</div>
 
 ---
 
-## 🌙 最近在干嘛
+## 🌸 前奏 · 关于我 / Overture · About Me
 
-- 🧪 折腾 Agent 的 **Tool Calling** 和长期记忆
-- 📖 刷 LeetCode 链表题（快慢指针 yyds）
-- ☕ 以及……大量的摸鱼
+> 「眼里有光，心中有梦，手上有键盘。」
 
----
+你好，我是 **qianozhuoliunian** 👋
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qianmozhuoliunian&show_icons=true&theme=buefy&hide_border=true&title_color=E75480&icon_color=E75480" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianmozhuoliunian&layout=compact&theme=buefy&hide_border=true&title_color=E75480" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=qianmozhuoliunian&theme=buefy&hide_border=true&ring=E75480&fire=E75480&currStreakLabel=E75480" alt="GitHub Streak" />
-</p>
-
-
-<!-- 🐍 贪吃蛇贡献图：想玩的话看这里
-     https://github.com/Platane/snk  用 GitHub Actions 自动生成，
-     生成后把 svg 放上来替换下面这行注释即可
-     <img src="https://raw.githubusercontent.com/qianmozhuoliunian/qianmozhuoliunian/output/github-contribution-grid-snake.svg" />
--->
-
-## 🧩 LeetCode
-
-> 链表题像四月的雨，一道接一道。
-
-<p align="center">
-  <img src="https://stats.justsong.cn/api/leetcode?username=qianmozhuoliunian&cn=true&theme=buefy" alt="LeetCode Stats" />
-</p>
-
+- 🐍 一名 Python 开发者，专注于 **AI Agent** 与 **FastAPI** 后端开发
+  *A Python developer focused on **AI Agents** and **FastAPI** backend engineering.*
+- 🤖 正在探索 LLM Agent 的世界：工具调用、记忆、多智能体协作
+  *Currently exploring the world of LLM Agents: tool use, memory, and multi-agent collaboration.*
+- 🌱 我相信边做边学 —— 把每个想法都写成能跑起来的代码
+  *I believe in learning by building — turning every idea into working code.*
 
 ---
 
-## 📌 一些小作品
+## 🎹 调律 · 技术栈 / Tuning · Tech Stack
 
-> 还没有值得挂出来的作品。
-> 但就像薰说的 —— 在能尽情演奏之前，先把每个音都弹好。
-> 以下是正在土壤里发芽的几个念头 🌱
+> 「趁年轻，多尝试；趁热爱，多折腾。」
 
-- 🎼 **Agent 小服务** —— FastAPI + LLM，让工具调用像即兴演奏（构思中）
-- 🎬 **给 LeetCode 题画动画** —— 把链表的指针移动画出来，帮助像我一样的新手看见指针（偶尔画一幅）
-- 🕳️ 剩下的坑，等想到了再挖
+**语言 / Languages**
 
-*有了第一个仓库，我会把这里填满的。*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ffb7c5?style=for-the-badge&logo=postgresql&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-ffd1dc?style=for-the-badge&logo=markdown&logoColor=black)
+
+**框架与工具 / Frameworks & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ff9eb5?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 找到我
+## 🎻 演奏中 · 最近在做什么 / Now Playing
 
-- 📧 [adwsjkluio123456@qq.com](mailto:adwsjkluio123456@qq.com)
-- 🐙 GitHub: [@qianmozhuoliunian](https://github.com/qianmozhuoliunian)
+> 「把热爱的事做到发光，就不算辜负青春。」
+
+- 🧩 刷题进行时：LeetCode 链表专题，正在攻克合并两个有序链表
+  *Grinding LeetCode: linked-list problems — currently merging two sorted lists.*
+- 🤖 捣鼓 AI Agent：让 LLM 学会调用工具、记住上下文
+  *Tinkering with AI Agents: teaching LLMs to use tools and remember context.*
+- ⚡ 用 FastAPI 把想法快速变成 API 服务
+  *Turning ideas into API services quickly with FastAPI.*
 
 ---
 
-<p align="center">
-  「 没有你的四月，又来了。」
-</p>
+## 🗾 余韵 · 2026 路线图 / Roadmap
+
+> 「路还长，梦还远，但脚步从不停。」
+
+- [x] 🌸 掌握 Python 基础与常用库
+- [x] 🎹 用 FastAPI 完成第一个后端项目
+- [ ] 🎻 深入 AI Agent：从零实现一个带记忆的 Agent
+      *Build an agent with memory from scratch*
+- [ ] 🌷 为开源社区贡献第一个 PR
+      *Make my first open-source contribution*
+- [ ] ⭐ 孵化一个属于自己的开源项目
+      *Incubate an open-source project of my own*
+
+---
+
+## 📊 乐谱 · 数据 / Stats
+
+> 「每一行代码，都是青春的注脚。」
+
+<div align="center">
 
 
-<p align="center">
-  但没关系 —— 代码还在，樱花还会开。🌸
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=qianozhuoliunian&show_icons=true&title_color=ff9eb5&icon_color=ffb7c5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="GitHub Stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianozhuoliunian&layout=compact&title_color=ff9eb5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="Top Languages">
+
+<img src="https://streak-stats.demolab.com?user=qianozhuoliunian&theme=sakura&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🤝 合奏 · 找到我 / Ensemble · Find Me
+
+> 「青春这首曲子，要和志同道合的人一起演奏。」
+
+<div align="center">
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qianmozhuoliunian&label=路过的人&color=FFB7C5&style=flat" alt="Profile Views" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-qianozhuoliunian-181717?style=for-the-badge&logo=github)](https://github.com/qianozhuoliunian)
+[![Email](https://img.shields.io/badge/Email-adwsjkluio123456@qq.com-ff9eb5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwsjkluio123456@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-我的博客-ffb7c5?style=for-the-badge&logo=hashnode&logoColor=white)](https://你的博客地址)
 
+*💬 欢迎交流 Python / AI Agent / FastAPI，也欢迎一起切磋代码。*
+*Feel free to reach out about Python, AI Agents, or FastAPI — always happy to jam on code.*
+
+</div>
+
+---
+
+<div align="center">
+
+
+**愿我们都跑得够快，追得上心里的光。**
+
+*Run fast, dream big — and never look back.*
+
+Made with ❤ and 🌸 · © 2026 qianozhuoliunian
+
+<a href="#top">⬆ 回到序章 / Back to Overture</a>
+
+</div>
