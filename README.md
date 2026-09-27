@@ -1,15 +1,17 @@
-[Uploading 自我介绍.md…]()
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+qianmozhuoliunian+%F0%9F%8C%B8;四月は君の嘘+%E2%80%94+and+the+code+is+my+spring;写+Agent%EF%BC%8C弹+FastAPI%EF%BC%8C像弹琴一样;commit+一顿%EF%BC%8C%E6%A8%B1%E8%8A%B1%E8%90%BD%E4%B8%80%E5%9C%B0" alt="Typing SVG" />
+  <img src="./banner.gif" alt="sakura banner" width="100%" />
 </h1>
+
 
 <p align="center">
   🌸 . ⋆ ✿ ʚïɞ ✿ ⋆ . 🌸
 </p>
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,fastapi,docker,postgres,redis,git,github,vscode,linux&theme=light" alt="Tech Icons" />
 </p>
+
 
 ---
 
@@ -26,6 +28,7 @@
 <details>
 <summary>🛠 点开看看我的工具箱（懒，先收起来了）</summary>
 <br />
+
 
 **主力**
 
@@ -67,6 +70,7 @@
   <img src="https://streak-stats.demolab.com/?user=qianmozhuoliunian&theme=buefy&hide_border=true&ring=E75480&fire=E75480&currStreakLabel=E75480" alt="GitHub Streak" />
 </p>
 
+
 <!-- 🐍 贪吃蛇贡献图：想玩的话看这里
      https://github.com/Platane/snk  用 GitHub Actions 自动生成，
      生成后把 svg 放上来替换下面这行注释即可
@@ -80,6 +84,7 @@
 <p align="center">
   <img src="https://stats.justsong.cn/api/leetcode?username=qianmozhuoliunian&cn=true&theme=buefy" alt="LeetCode Stats" />
 </p>
+
 
 ---
 
@@ -108,10 +113,13 @@
   「 没有你的四月，又来了。」
 </p>
 
+
 <p align="center">
   但没关系 —— 代码还在，樱花还会开。🌸
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=qianmozhuoliunian&label=路过的人&color=FFB7C5&style=flat" alt="Profile Views" />
 </p>
+
