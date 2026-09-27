@@ -1,31 +1,31 @@
-&lt;a name="top"&gt;&lt;/a&gt;
+<a name="top"></a>
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;!-- Banner --&gt;
-&lt;img src="banner.png" alt="banner" width="800"&gt;
+<!-- Banner -->
+<img src="banner.png" alt="banner" width="800">
 
-&lt;!-- 打字机效果 --&gt;
+<!-- 打字机效果 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=ff9eb5&center=true&vCenter=true&width=600&lines=%E8%B6%81%E9%9D%92%E6%98%A5%EF%BC%8C%E6%8A%8A%E7%83%AD%E7%88%B1%E5%86%99%E8%BF%9B%E4%BB%A3%E7%A0%81%E9%87%8C%20%F0%9F%8C%B8;Young%20%26%20Curious%20%C2%B7%20Code%20%26%20Dream%20%F0%9F%8E%B9)](https://git.io/typing-svg)
 
 # 🌸 Hi, I'm qianmozhuoliunian
 
-&gt; 「趁青春，把热爱写进代码里。」
-&gt;
-&gt; *Young and bold — code with passion.*
+> 「趁青春，把热爱写进代码里。」
+>
+> *Young and bold — code with passion.*
 
 **Python 开发者 / Python Developer** · 痴迷于 AI Agent 与后端工程 · Exploring AI Agents & Backend
 
 [![GitHub followers](https://img.shields.io/github/followers/qianmozhuoliunian?style=for-the-badge&color=ff9eb5)](https://github.com/qianmozhuoliunian)
 [![GitHub stars](https://img.shields.io/github/stars/qianmozhuoliunian?style=for-the-badge&color=ffb7c5)](https://github.com/qianmozhuoliunian?tab=repositories)
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🌸 前奏 · 关于我 / Overture · About Me
 
-&gt; 「眼里有光，心中有梦，手上有键盘。」
+> 「眼里有光，心中有梦，手上有键盘。」
 
 你好，我是 **qianmozhuoliunian** 👋
 
@@ -40,7 +40,7 @@
 
 ## 🎹 调律 · 技术栈 / Tuning · Tech Stack
 
-&gt; 「趁年轻，多尝试；趁热爱，多折腾。」
+> 「趁年轻，多尝试；趁热爱，多折腾。」
 
 **语言 / Languages**
 
@@ -61,7 +61,7 @@
 
 ## 🎻 演奏中 · 最近在做什么 / Now Playing
 
-&gt; 「把热爱的事做到发光，就不算辜负青春。」
+> 「把热爱的事做到发光，就不算辜负青春。」
 
 - 🧩 刷题进行时：LeetCode 链表专题，正在攻克合并两个有序链表
   *Grinding LeetCode: linked-list problems — currently merging two sorted lists.*
@@ -74,7 +74,7 @@
 
 ## 🗾 余韵 · 2026 路线图 / Roadmap
 
-&gt; 「路还长，梦还远，但脚步从不停。」
+> 「路还长，梦还远，但脚步从不停。」
 
 - [x] 🌸 掌握 Python 基础与常用库
 - [x] 🎹 用 FastAPI 完成第一个后端项目
@@ -89,24 +89,24 @@
 
 ## 📊 乐谱 · 数据 / Stats
 
-&gt; 「每一行代码，都是青春的注脚。」
+> 「每一行代码，都是青春的注脚。」
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;img height="160" src="https://github-readme-stats.vercel.app/api?username=qianmozhuoliunian&show_icons=true&title_color=ff9eb5&icon_color=ffb7c5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="GitHub Stats"&gt;
-&lt;img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianmozhuoliunian&layout=compact&title_color=ff9eb5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="Top Languages"&gt;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=qianmozhuoliunian&show_icons=true&title_color=ff9eb5&icon_color=ffb7c5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="GitHub Stats">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianmozhuoliunian&layout=compact&title_color=ff9eb5&text_color=555555&bg_color=fff5f7&hide_border=true" alt="Top Languages">
 
-&lt;img src="https://streak-stats.demolab.com?user=qianmozhuoliunian&theme=sakura&hide_border=true" alt="GitHub Streak"&gt;
+<img src="https://streak-stats.demolab.com?user=qianmozhuoliunian&theme=sakura&hide_border=true" alt="GitHub Streak">
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🤝 合奏 · 找到我 / Ensemble · Find Me
 
-&gt; 「青春这首曲子，要和志同道合的人一起演奏。」
+> 「青春这首曲子，要和志同道合的人一起演奏。」
 
-&lt;div align="center"&gt;
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-qianmozhuoliunian-181717?style=for-the-badge&logo=github)](https://github.com/qianmozhuoliunian)
 [![Email](https://img.shields.io/badge/Email-adwsjkluio123456@qq.com-ff9eb5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwsjkluio123456@qq.com)
@@ -114,11 +114,11 @@
 *💬 欢迎交流 Python / AI Agent / FastAPI，也欢迎一起切磋代码。*
 *Feel free to reach out about Python, AI Agents, or FastAPI — always happy to jam on code.*
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 **愿我们都跑得够快，追得上心里的光。**
 
@@ -126,6 +126,6 @@
 
 Made with ❤ and 🌸 · © 2026 qianmozhuoliunian
 
-&lt;a href="#top"&gt;⬆ 回到序章 / Back to Overture&lt;/a&gt;
+<a href="#top">⬆ 回到序章 / Back to Overture</a>
 
-&lt;/div&gt;
+</div>
