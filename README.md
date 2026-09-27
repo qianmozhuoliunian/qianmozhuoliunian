@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Banner：可替换为樱花 / 钢琴 / 春景图，或保持纯文字 -->
-<img src="docs/images/banner.png" alt="banner" width="800">
+<img src="banner.png" alt="banner" width="800">
 
 <!-- 打字机效果 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&color=ff9eb5&center=true&vCenter=true&width=600&lines=%E8%B6%81%E9%9D%92%E6%98%A5%EF%BC%8C%E6%8A%8A%E7%83%AD%E7%88%B1%E5%86%99%E8%BF%9B%E4%BB%A3%E7%A0%81%E9%87%8C%20%F0%9F%8C%B8;Young%20%26%20Curious%20%C2%B7%20Code%20%26%20Dream%20%F0%9F%8E%B9)](https://git.io/typing-svg)
@@ -110,7 +110,7 @@
 <div align="center">
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-qianozhuoliunian-181717?style=for-the-badge&logo=github)](https://github.com/qianozhuoliunian)
+[![GitHub](https://img.shields.io/badge/GitHub-qianmozhuoliunian-181717?style=for-the-badge&logo=github)](https://github.com/qianmozhuoliunian)
 [![Email](https://img.shields.io/badge/Email-adwsjkluio123456@qq.com-ff9eb5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwsjkluio123456@qq.com)
 [![Blog](https://img.shields.io/badge/Blog-我的博客-ffb7c5?style=for-the-badge&logo=hashnode&logoColor=white)](https://你的博客地址)
 
