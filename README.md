@@ -80,7 +80,7 @@
 - [x] 🎹 用 FastAPI 完成第一个后端项目
 - [ ] 🎻 深入 AI Agent：从零实现一个带记忆的 Agent
       *Build an agent with memory from scratch*
-- [ ] 🌷 为开源社区贡献第一个 PR
+- [x] 🌷 为开源社区贡献第一个 PR
       *Make my first open-source contribution*
 - [ ] ⭐ 孵化一个属于自己的开源项目
       *Incubate an open-source project of my own*
